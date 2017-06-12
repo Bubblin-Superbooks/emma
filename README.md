@@ -8,7 +8,7 @@ Just a simple book. And, straight on the web.
 
 `Supported devices`: Everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. See [details](https://bubbl.in/support) but guess what: Books are vest experienced on tablets!
 
-## THE BOOK
+## THE MANUSCRIPT
 The book is live on the url at the top.
 
 Slight framerate (FPS) quirks might occur due to dearth of web standards for books (We hope that will change soon!).
@@ -89,14 +89,14 @@ PROJECT/
 66 directories, 127 files
 
 ```
-## LICENSE:
-The content is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT license </a> and was sourced from [Gutenberg.org]()
+## CREDIT:
+The content is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT license </a> and was sourced from [Gutenberg.org](http://gutenberg.org)
 
 ## CONTRIBUTION/FIXES
 
-Feel free to contribute, fix or help improve the code of this book!
+Feel free to submit fixes or report issues or simply help improve the code of this book!
 
-1. Fork it ( https://github.com/marvindanig/A-B-C-D-Animals-Book/fork )
+1. Fork it using `git`.
 2. Create your feature branch (`git checkout -b my-new-page`)
 3. Commit your changes (`git commit -am 'Added a page on (/topic)'`)
 4. Push to the branch (`git push origin my-new-page`)
@@ -104,8 +104,4 @@ Feel free to contribute, fix or help improve the code of this book!
 6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I don't respond within 24 hours.
 
 ## Licenses
-[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/us/88x31.png)](http://creativecommons.org/licenses/by/3.0/us/)
-All content of this superbook is licensed under a [Creative Commons Attribution 3.0 United States License](http://creativecommons.org/licenses/by/3.0/us/).
-
-The underlying HTML & CSS3 code used to format and design the content is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT license </a>.
-template.
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]
