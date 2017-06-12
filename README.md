@@ -125,4 +125,4 @@ Various:
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
-Part of the sourcecode of this project is licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a> while there are other components and node modules sourced under their own respective licenses.
+Part of the sourcecode of this project is licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a> while there are other components and `node_modules` that are sourced under their own licenses held by their own respective owners.
