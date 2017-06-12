@@ -1,17 +1,19 @@
 # INTRODUCTION
 
-A nifty [superbook](https://bubbl.in/about) for book lovers on the web. Brought to you by web people.
+A nifty [superbook](https://bubbl.in/about) for book-lovers on the web. Brought to you by [Bubblin Superbooks] - an online café for good books.
 
-First of its kind, this manuscript uses only CSS, HTML and JavaScript to open up a timeless English classic. Help yourself with this book and read it as a *first class citizen* of the web. No fancy corporate style card sliding interface (it's a book not a powerpoint presentation), no stupid half-scroll half-click bait website, no pesky files to download and not even useless software upgrades one fine morning.
+First of its kind, this manuscript uses only HTML, CSS and JavaScript to render a timeless English classic on to your brwoser. Feel free to read this book anywhere for FREE!
 
-Just a simple book. And, straight on the web.
+No fancy app to download, no random files to worry about. No stupid email required to start reading it and not even a software upgrade ever on your machine after this one fine morning.
 
-`Supported devices`: Everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. See [details](https://bubbl.in/support) but guess what: Books are vest experienced on tablets!
+Just a simple book. Straight on the web.
+
+`Supported devices`: Everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. See [details](https://bubbl.in/support) but guess what: books are best experienced on tablets lying down!
 
 ## THE MANUSCRIPT
-The book is live on the url at the top.
+The book is live on the url provided at the top.
 
-Slight framerate (FPS) quirks might occur due to dearth of web standards for books (We hope that will change soon!).
+Slight framerate (FPS) quirks might occur due to the dearth of web standards for books (We hope this will change soon!).
 
 ## RECOMMENDED DEVICE:
 
