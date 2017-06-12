@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "Emma",
+  "type": "text",
+  "book_id": 327
+}
