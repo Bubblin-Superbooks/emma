@@ -104,4 +104,4 @@ Feel free to submit fixes or report issues or simply help improve the code of th
 6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I don't respond within 24 hours.
 
 ## Licenses
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]
+![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
