@@ -1,37 +1,51 @@
 # INTRODUCTION
 
-A nifty [superbook](https://bubbl.in/about) for book-lovers on the web. Brought to you by [Bubblin Superbooks] - an online café for good books.
+A nifty [superbook](https://bubbl.in/faq) for book-lovers on the web.
 
-First of its kind, this manuscript uses only HTML, CSS and JavaScript to render a timeless English classic on to your brwoser. Feel free to read this book anywhere for FREE!
+Brought to you by [Bubblin Superbooks](https://bubbl.in/about) - an online café for good books.
+
+First of its kind, this manuscript uses only HTML, CSS and JavaScript to render a timeless English classic on your brwoser. Feel free to read or share this with anyone for FREE!
 
 No fancy app to download, no random files to worry about. No stupid email required to start reading it and not even a software upgrade ever on your machine after this one fine morning.
 
 Just a simple book. Straight on the web.
 
-`Supported devices`: Everywhere - iPads, iPhones, Android Phones & tablets, Kindle, Desktops, TVs. See [details](https://bubbl.in/support) but guess what: books are best experienced on tablets lying down!
+## Support
+Almost everywhere - iPads, iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information on this.
+
+…but guess what: books are best experienced on tablets lying down!
 
 ## THE MANUSCRIPT
 The book is live on the url provided at the top.
 
-Slight framerate (FPS) quirks might occur due to the dearth of web standards for books (We hope this will change soon!).
+Slight framerate (FPS) quirks might occur due to the dearth of web standards for books (We hope that this will change soon!).
 
 ## RECOMMENDED DEVICE:
 
-- Open the [book](https://bubbl.in/cover/emma-by-jane-austen) on Safari (or your favorite browser). Start reading…
+Apple iPad, Google Chrome. Or you can also use Safari like so:
+
+- Open the [book](https://bubbl.in/cover/emma-by-jane-austen) on Safari (or any of your favorite browser). Start reading…
 - Or tap the `Share` button at the top of the screen.
 - And tap `Add to Home Screen`… if you like that sort of a thing.
 
 
 ### HACK IT IN YOUR OWN STYLE
 
+Feel free to clone and hack this project and implement its pages, layouts or visuals in your own style. Share your fork with us and we'll help you spread the word!
+
+The how:
+
 ```
-$ git clone [ *this repository* ]
+$ git clone [ *this manuscript* ]
 $ npm install
 $ bookiza server
 
 ```
 
-This will open the book at `localhost:4567`.
+Bookiza will automagically process the manuscript and open the book at `localhost:4567`.
+
+Read about [node](https://nodejs.org/en/), [bookiza](http://bookiza.io) and [bubblin](https://bubbl.in) to get started.
+
 
 ### The Project
 This app was created using [bookiza](https://bookiza.io) -- a "book reification" framework.
@@ -88,11 +102,12 @@ PROJECT/
 │   └── template.js
 └── trash
 
-66 directories, 127 files
 
 ```
 ## CREDIT:
-The content is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT license </a> and was sourced from [Gutenberg.org](http://gutenberg.org)
+The source code of this project is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and the manuscript was sourced from [Gutenberg.org](http://gutenberg.org)
+
+Please read license terms of other softwares/libraries and their respective writers (owners) who have directly or indirectly contributed to this project.
 
 ## CONTRIBUTION/FIXES
 
@@ -103,7 +118,7 @@ Feel free to submit fixes or report issues or simply help improve the code of th
 3. Commit your changes (`git commit -am 'Added a page on (/topic)'`)
 4. Push to the branch (`git push origin my-new-page`)
 5. Create a new Pull Request
-6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I don't respond within 24 hours.
+6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I/someone on my team doesn't respond within 24 hours. I get a lot of mail, so do not follow-up with a second mail before 24 hours.
 
 ## Licenses
 ![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
