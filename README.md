@@ -104,8 +104,8 @@ PROJECT/
 
 
 ```
-## CREDIT:
-The source code of this project is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and the manuscript was sourced from [Gutenberg.org](http://gutenberg.org)
+## CREDITS:
+The manuscript was sourced from [Gutenberg.org](http://gutenberg.org)
 
 Please read license terms of other softwares/libraries and their respective writers (owners) who have directly or indirectly contributed to this project.
 
@@ -121,4 +121,8 @@ Feel free to submit fixes or report issues or simply help improve the code of th
 6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I/someone on my team doesn't respond within 24 hours. I get a lot of mail, so do not follow-up with a second mail before 24 hours.
 
 ## Licenses
+Various:
+
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
+
+Part of the sourcecode of this project is licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a> while there are other components and node modules sourced under their own respective licenses.
