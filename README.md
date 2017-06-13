@@ -15,7 +15,7 @@ Please help us by sharing this to your friends if you can.
 ## SUPPORT
 Best on iPad but works nearly everywhere - iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information.
 
-:point_right: Research suggests that books are best experienced lying down on 9" tablets like the iPad!
+:point_right: Research suggests that books (both physical and electronic) are best experienced when lying down on 9" tablets!
 
 ## THE MANUSCRIPT
 This repo is the manuscript while the book is hosted and rendered live on the url provided at the top.
