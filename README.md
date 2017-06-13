@@ -121,7 +121,8 @@ Feel free to submit fixes or report issues or simply help improve the code of th
 6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I/someone on my team doesn't respond within 24 hours. I get a lot of mail, so do not follow-up with a second mail before 24 hours.
 
 ## Licenses
-Various:
+
+Various! Primarily,
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
