@@ -1,54 +1,55 @@
 # INTRODUCTION
 
-A nifty [superbook](https://bubbl.in/faq) for book-lovers on the web.
+A nifty read for book-lovers on the web. Yes, it's just a book. Delivered straight on web.
 
-Brought to you by [Bubblin Superbooks](https://bubbl.in/about) - an online café of books.
+Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books.
 
-First of its kind, this manuscript uses only HTML, CSS and JavaScript to render a timeless English classic on your brwoser. Feel free to read or share this with anyone for FREE!
+# MOBILE WEB
 
-No fancy app to download, no random files to worry about. No stupid email required to start reading it and not even a software upgrade ever on your machine after this one fine morning.
+The first of its kind, this manuscript renders into a responsive `mobile-first` book. The manuscript was generated robotically and outputted into plain HTML, CSS and JavaScript i.e. native elements of web and is rendered live on the url provided at the top.
 
-Just a simple book. Straight on the web.
+Read a timeless English classic on your favorite browser and share the work online with your friends, classmates or family. For FREE!
 
-## Support
-Almost everywhere - iPads, iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information on this.
+Please help us by sharing this to your friends if you can.
 
-…but guess what: books are best experienced on tablets lying down!
+## SUPPORT
+Best on iPad but works nearly everywhere - iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information.
+
+:point_right: Research suggests that books are best experienced lying down on 9" tablets like the iPad!
 
 ## THE MANUSCRIPT
-The book is live on the url provided at the top.
+This repo is the manuscript while the book is hosted and rendered live on the url provided at the top.
 
-Slight framerate (FPS) quirks might occur due to the dearth of web standards for books (We hope that this will change soon!).
 
-## RECOMMENDED DEVICE:
+## RECOMMENDED DEVICE/BROWSER:
 
-Apple iPad, Google Chrome. Or you can also use Safari like so:
+Apple iPad + Google Chrome. You can also do the following:
 
-- Open the [book](https://bubbl.in/cover/emma-by-jane-austen) on Safari (or any of your favorite browser). Start reading…
-- Or tap the `Share` button at the top of the screen.
-- And tap `Add to Home Screen`… if you like that sort of a thing.
+- Open the on iOS Safari (or your favorite browser). Start reading…
+- Tap the `Share` button at the top of the screen.
+- Tap `Add to Home Screen`… if you like that sort of a thing.
 
 
 ### HACK IT IN YOUR OWN STYLE
 
-Feel free to clone and hack this project and implement its pages, layouts or visuals in your own style. Share your fork with us and we'll help you spread the word!
+Feel free to clone this manuscript to play with its content, layout or make fresh artwork of your own for it. If you make something please tell us about it, we'd love to see what people can make of it!
 
-The how:
+How:
 
 ```
-$ git clone [ *this manuscript* ]
+$ git clone <manuscript> && cd <manuscript>
 $ npm install
 $ bookiza server
 
 ```
 
-Bookiza will automagically process the manuscript and open the book at `localhost:4567`.
+Bookiza server will compile the manuscript and open the book on `localhost:4567`.
 
 Read about [node](https://nodejs.org/en/), [bookiza](http://bookiza.io) and [bubblin](https://bubbl.in) to get started.
 
 
-### The Project
-This app was created using [bookiza](https://bookiza.io) -- a "book reification" framework.
+### PROJECT
+This app was created using [bookiza](https://bookiza.io) -- a "book baking" tool.
 
 The TREE of the manuscript looks somewhat like this:
 
@@ -105,13 +106,13 @@ PROJECT/
 
 ```
 ## CREDITS:
-The manuscript was sourced from [Gutenberg.org](http://gutenberg.org)
+This manuscript was licensed via [Gutenberg](http://gutenberg.org)
 
-Please read license terms of other softwares/libraries and their respective writers (owners) who have directly or indirectly contributed to this project.
+Please read license terms of other softwares/libraries and their respective owners who have contributed directly or indirectly into this project.
 
 ## CONTRIBUTION/FIXES
 
-Feel free to submit fixes or report issues or simply help improve the code of this book!
+Feel free to report issues or submit fixes to help improve the code.
 
 1. Fork it using `git`.
 2. Create your feature branch (`git checkout -b my-new-page`)
@@ -122,8 +123,6 @@ Feel free to submit fixes or report issues or simply help improve the code of th
 
 ## Licenses
 
-Various! Primarily,
+Various! But, primarily:
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
-
-Part of the sourcecode of this project is licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a> while there are other components and `node_modules` that are sourced under their own licenses held by their own respective owners.
